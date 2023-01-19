@@ -1,0 +1,12 @@
+<ItemPools>
+    <Pool Name="treasure">
+        <Item Name="Затычка" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="secret">
+        <Item Name="Затычка" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    <Pool Name="greedTreasure">
+        <Item Name="Затычка" Weight="1" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+    
+</ItemPools>
